@@ -21,6 +21,19 @@ int forLoop()
     return 0;
 }
 
+int doWhileLoop()
+{
+    int cnt = 0;
+    do
+    {
+        cnt++;
+        cout << "CNT is now : " << cnt << endl;
+
+    } while (cnt < 10);
+
+    return 0;
+}
+
 int main()
 {
     forLoop();
