@@ -8,6 +8,7 @@ int whileLoop()
     {
         ++cnt;
         cout << "CNT is now : " << cnt << endl;
+
     }
     return 0;
 }
@@ -31,7 +32,7 @@ int doWhileLoop()
 
     } while (cnt < 10);
 
-    return 0;
+    return 0; 
 }
 
 int main()
