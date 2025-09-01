@@ -8,5 +8,5 @@ int add(int a, int b)
 int main()
 {
     cout << "Hello World from C++" << add(23, 2323) << endl;
-    return 10;
+    return 0;
 }
