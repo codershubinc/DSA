@@ -2,11 +2,4 @@
 .env 
 
 # Executable files 
-*.exe 
-!*.cpp
-!*.c
-!*.h
-!*.hpp
-!*/
-*
-!*.*
+*.exe
