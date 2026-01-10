@@ -2,5 +2,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello, DSA!")
+	for i := 1; i <= 5; i++ {
+		fmt.Println("Iteration:", i)
+	}
 }
